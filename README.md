@@ -1,2 +1,2 @@
 # PageLoaderAnimation
-Basic Html, CSS ,JSS code for a page loader
+Basic Html, CSS ,JS code for a page loader
